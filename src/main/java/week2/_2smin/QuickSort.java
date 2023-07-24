@@ -2,6 +2,9 @@ package week2._2smin;
 
 import java.util.Arrays;
 
+/**
+ * <a href="https://planner26.tistory.com/45">Quick Sort Overview of 2smin blog</a>
+ */
 public class QuickSort {
 
     static int[] arr = new int[8];
