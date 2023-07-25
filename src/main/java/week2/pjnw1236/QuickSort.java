@@ -8,12 +8,6 @@ public class QuickSort {
     public static void main(String[] args) {
         int[] arr = {7, 2, 10, 6, 3, 1, 8, 5, 4, 9};
 
-        int[] arr1 = {4, 2, 6, 1, 3, 5};
-
-        System.out.println(Arrays.toString(arr1));
-        printQuickSortProcess(arr1, 0, arr1.length-1);
-        System.out.println("======================================================");
-
         System.out.println(Arrays.toString(arr));
         printQuickSortProcess(arr, 0, arr.length-1);
         /*
@@ -62,6 +56,6 @@ public class QuickSort {
 
         System.out.println(Arrays.toString(arr));
 
-        return start+left.size();
+        return start + left.size();
     }
 }
