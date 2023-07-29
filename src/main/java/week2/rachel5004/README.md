@@ -4,7 +4,7 @@
 - 언제나 절반씩 분할이 되기 때문에 항상 O(nlogn)
 - 배열을 복사하기 때문에 추가적인 시간,메모리를 쓴다
 
-![image](https://github.com/SeohyunAlgo/SeohyunAlgo/assets/75432228/4d94a81a-822e-43ce-8b89-d9fa2c711e2f)
+[![image](https://blog.kakaocdn.net/dn/bL9LCR/btq54nCwwSR/a41SK3K2vFwi0ZknuDknv1/img.gif)](https://blog.kakaocdn.net/dn/bL9LCR/btq54nCwwSR/a41SK3K2vFwi0ZknuDknv1/img.gif)
 
 
 ### 퀵정렬
