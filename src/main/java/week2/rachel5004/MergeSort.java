@@ -31,16 +31,16 @@ public class MergeSort {
         int j = mid + 1;
         int k = left;
 
-		while(i <= mid && j <= right) {
-			if(tmp[i] <= tmp[j]) {
-				arr[k++] = tmp[i++];
-			} else {
-				arr[k++] = tmp[j++];
-			}
+	while(i <= mid && j <= right) {
+		if(tmp[i] <= tmp[j]) {
+			arr[k++] = tmp[i++];
+		} else {
+			arr[k++] = tmp[j++];
 		}
+	}
 
-		for(int i=0; i<=mid-i; i++) {
-			arr[k+i] = tmp[i+i];
-		}
+	for(int i=0; i<=mid-i; i++) {
+		arr[k+i] = tmp[i+i];
+	}
     }
 }
