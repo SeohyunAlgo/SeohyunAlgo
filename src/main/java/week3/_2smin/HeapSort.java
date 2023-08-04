@@ -3,6 +3,9 @@ package week3._2smin;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * <a href="https://planner26.tistory.com/53">Heap Sort Overview of 2smin blog</a>
+ */
 public class HeapSort {
 
     static int size = 10;
