@@ -20,7 +20,7 @@
 * 1주차 - 정렬 알고리즘(1) - 선택정렬, 삽입정렬, 버블정렬
 * 2주차 - 정렬 알고리즘(2) - 병합정렬, 퀵정렬, 기수정렬, 셀정렬
 * 3주차 - heap
-* 4주차 - 완전탐색/이분탐색
+* 4주차 - Brute Force/Binary Search
 * 5주차 - Greedy
 * 6주차 - DFS/BFS
 * 7주차 - Dynamic Programming
